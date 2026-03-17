@@ -1,0 +1,22 @@
+{
+  "name": "cross-model-code-review",
+  "description": "Multi-model consensus-driven code review using parallel AI CLIs (Codex, Gemini, Aider, Ollama). Orchestrates independent reviews across 16 quality domains with confidence-scored consensus synthesis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Craig Kitterman",
+    "url": "https://github.com/craigkitterman"
+  },
+  "repository": "https://github.com/craigkitterman/cross-model-code-review-skill",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "multi-model",
+    "consensus",
+    "security-audit",
+    "ux-review",
+    "document-review",
+    "codex",
+    "gemini",
+    "claude-code-skill"
+  ]
+}
